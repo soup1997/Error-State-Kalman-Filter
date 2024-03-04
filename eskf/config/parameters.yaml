@@ -1,0 +1,5 @@
+imu_topic: kitti/oxts/imu
+vo_topic: kitti/vo
+
+sp_vo_topic: kitti/sp_vo
+sp_vio_topic: kitti/sp_vio
